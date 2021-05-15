@@ -1,0 +1,13 @@
+{
+    "erkekRolu": "buraya erkek rolünün idsini girin",
+    "kizRolu": "buraya kız rolünün idsini girin",
+    "kayitsizRolu": "buraya kayıtsız rolünün idsini girin",
+    "kayitciRolu": "buraya kayıt yapacak yetkili rolünün idsi girin",
+    "chatKanali": "buraya chatin idsini girin",
+    "registerChat": "buraya kayıt chatinin idsini girin",
+    "carpiEmoji": "buraya çarpı emoji idsini girin",
+    "tikEmoji": "buraya tik emoji idsini girin",
+    "rules": "buraya kurallar kanalının idsini girin",
+    "botSesKanali": "buraya botun gireceği ses kanalının idsini girin",
+    "otorolLog": "buraya otorol logunun idsini girin"
+}
