@@ -5,5 +5,5 @@
 ayar.json ve atlas.json dosyalarını doldurmanız yeterli
 
 bi sorunuz olursa discordda dm yoluyla veya nirvana sunucusu üzerinden bana ulaşabilirsiniz
-nickim: ' atlas star.#7730
+nickim: ' atlas star. ✬#7730
 nirvana: discord.gg/jmsTVaXgqH
