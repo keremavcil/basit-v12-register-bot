@@ -13,5 +13,5 @@ emojinin adını yazdıktan sonra başına \ koyun, `\:emojiadı:` şeklinde. me
 
 
 bi sorunuz olursa discordda dm yoluyla veya nirvana sunucusu üzerinden bana ulaşabilirsiniz
-nickim: ' atlas star. ✬#7730
-nirvana: discord.gg/jmsTVaXgqH
+nickim: `' atlas star. ✬#7730`
+nirvana: `discord.gg/jmsTVaXgqH`
