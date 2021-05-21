@@ -12,6 +12,6 @@ ayarlarda advanced/gelişmiş kısmına gelin ve developer mode/geliştirici mod
 emojinin adını yazdıktan sonra başına \ koyun, `\:emojiadı:` şeklinde. mesajı gönderdikten sonra <:emojiadı:id> olarak gözükecektir, tamamını kopyalayın
 
 
-bi sorunuz olursa discordda dm yoluyla veya nirvana sunucusu üzerinden bana ulaşabilirsiniz
-nickim: `' atlas star. ✬#7730`
-nirvana: `discord.gg/jmsTVaXgqH`
+bi' sorunuz olursa discord'da dm yoluyla veya majesty sunucusu üzerinden bana ulaşabilirsiniz
+nickim: `' atlas. ✵ ✬ #7730`
+majesty: `https://discord.gg/AErrYFefwk`
