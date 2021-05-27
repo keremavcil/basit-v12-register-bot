@@ -13,5 +13,5 @@ emojinin adını yazdıktan sonra başına \ koyun, `\:emojiadı:` şeklinde. me
 
 
 bi' sorunuz olursa discord'da dm yoluyla veya majesty sunucusu üzerinden bana ulaşabilirsiniz
-nickim: `' atlas. ✵ ✬ #7730`
-majesty: `https://discord.gg/AErrYFefwk`
+nickim: `' atlas majesty. ✬ #7730`
+majesty: `discord.gg/AErrYFefwk`
